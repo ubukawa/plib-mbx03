@@ -25,7 +25,7 @@ module.exports = {
         areas : [
             {title: "Default",latlng: [0, 0],zoom: 1,}, 
             {title: "UNHQ",latlng: [-73.97, 40.75],zoom: 4}, 
-            {title: "Kilgoris",latlng: [17.97, 40.65],zoom: 4}
+            {title: "UNGSC",latlng: [17.97, 40.65],zoom: 4}
         ]
     },
     // please specify layer name for showing in legend panel.
